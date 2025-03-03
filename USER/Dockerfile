@@ -1,3 +1,3 @@
 FROM almalinux:9
-RUN useradd expense
+RUN useradd example
 CMD ["SLEEP", "100"]
